@@ -1,4 +1,4 @@
-# MultiPromptApi
+# MultiPromptAPI
 
 MultiPromptApi is a graphical user interface designed to streamline the process of working with multiple prompts using the powerful OpenAI API. This tool offers a simple and user-friendly interface, allowing users to easily interact with the OpenAI API and execute a wide range of natural language processing tasks. With MultiPromptApi, users can quickly and efficiently generate text, answer questions, and perform other tasks, all from a single, unified interface. 
 
